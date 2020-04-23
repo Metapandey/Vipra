@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853421697471",
+    "firebase_url": "https://vipra-4976f.firebaseio.com",
+    "project_id": "vipra-4976f",
+    "storage_bucket": "vipra-4976f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853421697471:android:d2e9cf9f58ae2d37bbd90a",
+        "android_client_info": {
+          "package_name": "com.vipra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853421697471-604i3ipqdctteio8d3m46qulnhtaek8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vipra",
+            "certificate_hash": "91b5ee10adc9bd24371220766a8d43a378b0ce5a"
+          }
+        },
+        {
+          "client_id": "853421697471-9a2rjvbapr0uv6kuiuut319bskpmrd63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ZLlddXjqeYE1c72vgXGHSm7gGpoiesQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853421697471-9a2rjvbapr0uv6kuiuut319bskpmrd63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

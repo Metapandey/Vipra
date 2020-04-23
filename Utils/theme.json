@@ -1,0 +1,72 @@
+{
+	
+	"color": {
+		"primary": "",
+		"secondary": "#f5ebd9",
+		"grayscale": [ 
+			"#FFFFFF",
+			"#747474",
+			"#B21F02",
+			"#ece4d6",
+			"#483928"
+
+		],
+		"background_color": "",
+		"other": [
+			"rgba(227, 56, 13, 1)",
+			"#E93C2D",
+			"#FF7A0E",
+			"#FF902B",
+			"#FFA219",
+			"#F1C22F",
+			"#4284F3",
+			"#3C569A"
+		]
+	},
+	"font": {
+		"type": [
+			"Freight",
+			"Futura",
+			"Arial"
+		],
+		"weight": [
+			"Light",
+			"Light Oblique",
+			"Book",
+			"Cond",
+			"Book Oblique",
+			"Cond Oblique",
+			"Medium",
+			"Cond Medium",
+			"Medium Oblique",
+			"Cond Medium Oblique",
+			"Demi",
+			"Heavy",
+			"Heavy Oblique",
+			"Demi Oblique",
+			"Bold",
+			"Cond Bold",
+			"Bold Oblique",
+			"Cond Bold Oblique",
+			"ExtraBold",
+			"Cond ExtraBold",
+			"ExtraBold Oblique",
+			"Cond ExtraBold Oblique",
+			"Regular",
+			"Italic"
+		],
+		"size": [
+			30,
+			18,
+			16,
+			14,
+			12
+		],
+		"spacing": [
+			200,
+			600,
+			800
+		]
+	}
+
+}
