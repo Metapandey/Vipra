@@ -1,5 +1,5 @@
 # Vipra
-![Logo](https://user-images.githubusercontent.com/49518917/109391400-e3b1a180-793c-11eb-8fbe-d01504f5b191.png)
+ # ![Logo](https://user-images.githubusercontent.com/49518917/109391400-e3b1a180-793c-11eb-8fbe-d01504f5b191.png)
 ![HOME-1](https://user-images.githubusercontent.com/49518917/109391344-92a1ad80-793c-11eb-8bd9-2430c0a2124e.png)
 ![BOOKINGS](https://user-images.githubusercontent.com/49518917/109391390-d98fa300-793c-11eb-9f8d-d786cd88309b.png)
 ![PUROHIT](https://user-images.githubusercontent.com/49518917/109391408-e7ddbf00-793c-11eb-9cd3-46bf0a0cf027.png)
